@@ -26,7 +26,7 @@ Introductory Digital Design Laboratory (CS M152A).
 
 
 ### Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/www.linkedin.com/in/samson-moldovsky-aa7607211)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/samson-moldovsky-aa7607211)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/RafiMoldovsky/)
 
 
