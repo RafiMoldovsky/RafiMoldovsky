@@ -1,15 +1,8 @@
 
 ## Hi! My name is Samson Rafi Moldovsky.
--I am a Computer Science and Applied Mathematics student at UCLA. I am currently planning to graduate in 2023.
+-I am a recent UCLA graduate (SP 2023) with a degree in Computer Science and a degree in Applied Mathematics.
 
--I’m currently working on Several backend projects
-
-### Currently Learning
-Automata Theory (CS 181),
-Applied Numerical Methods part 2 (Math 151B),
-Graph theory (Math 180),
-Introduction to AI (CS 161), and
-Introduction to Statistics and Probability (Stats 100A).
+-I’m currently looking for a full-time software engineering role.
 
 <h2> Skills <> </h2>
 <a href= https://github.com/RafiMoldovsky?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
