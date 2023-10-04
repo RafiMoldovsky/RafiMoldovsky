@@ -2,7 +2,7 @@
 ## Hi! My name is Samson Rafi Moldovsky.
 -I am a recent UCLA graduate (SP 2023) with a degree in Computer Science and a degree in Applied Mathematics.
 
--I’m currently looking for a full-time software engineering role.
+-I’m currently working as a Full Stack/ML engineer at Trabus Technologies.
 
 <h2> Skills <> </h2>
 <a href= https://github.com/RafiMoldovsky?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
